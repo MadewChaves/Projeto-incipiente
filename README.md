@@ -1,5 +1,5 @@
 # Escolha seu linguagem
-O começo da sua carreira de desenvolvedor é agora, o mundo precisa de você e de suas habilidades, escolha a sua linguagem e a baixe para iniciar sua jornada como desenvolvedor.
+O começo da sua carreira de desenvolvedor é agora, o mundo precisa de você e de suas habilidades, escolha a sua linguagem e baixe para iniciar sua jornada como desenvolvedor.
 
 ### Encontre abaixo as linguagens de programação do momento e faça Download agora:
 
